@@ -1,0 +1,5 @@
+.apps2{
+@include section(512px);
+    @include section_picture("images/02.jpg");
+    color: $color_white;
+}

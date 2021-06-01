@@ -1,0 +1,5 @@
+.header{
+    @include section(512px);
+    color: $color_white;
+    background-image: linear-gradient(90deg, #7F2F4A 10.63%, #384C85 88.13%);
+}
